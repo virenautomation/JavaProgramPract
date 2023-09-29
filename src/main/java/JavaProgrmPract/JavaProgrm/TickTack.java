@@ -18,7 +18,7 @@ public static void main(String[] args)
 		
 		else
 			System.out.println(i+" ");
-		//This chnages i have done from eclipse.
+		
 		}
 	}
 }
